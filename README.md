@@ -21,7 +21,7 @@ Create a password generator website using Javascript
 # About The Project
 The purpose of this project was to create a web application that would generate random passwords for a potiential employee. The generated password are based on criteria they’ve selected by modifying starter code. The criteria includes having at least 8 characters and no more than 128 characters. It also must have at least 1 uppercase letter, 1 lowercase letter, 1 number, and 1 special character. This app runs in the web browser and adapts to multiple screen sizes. 
 
-<img src="https://i.ibb.co/WH93kQr/Password-Generator.gif" alt="Password-Generator" border="0">
+<img src="https://i.ibb.co/kKkYrtv/Screen-Shot-2020-12-01-at-5-39-14-PM.png" alt="password-generator-screenshot" border="0">
 
 ### Built With
 The password generator web application was created with 3 coding languages:
