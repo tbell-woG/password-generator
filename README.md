@@ -26,7 +26,7 @@ The purpose of this project was to create a web application that would generate 
 ### Built With
 The password generator web application was created with 3 coding languages:
 * HMTL
-* Css
+* CSS
 * JavaScript
 
 # Contributing
@@ -36,7 +36,6 @@ The password generator web application was created with 3 coding languages:
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-<!-- CONTACT -->
 # Contact
 
 Tamira Bell - https://github.com/tbell-woG
