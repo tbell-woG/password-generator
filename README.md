@@ -39,5 +39,5 @@ The password generator web application was created with 3 coding languages:
 # Contact
 
 Tamira Bell - https://github.com/tbell-woG
-
-Project Link: https://github.com/tbell-woG/password-generator.git
+Github Repository Link: https://github.com/tbell-woG/password-generator.git
+Project Link: https://tbell-wog.github.io/password-generator/
